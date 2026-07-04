@@ -27,3 +27,16 @@ Euro area credit conditions are better read as a layered picture than as a singl
 
 These projects do not provide forecasts, investment signals, policy recommendations, credit-crisis diagnoses, stress scores, bank rankings, or country rankings. They are bounded analytical lenses based on selected official ECB indicators.
 
+## Official Macro Observation Prototypes
+
+I also build source-bounded macro observation prototypes using official data. These projects are designed as compact observation cards, not forecasts, rankings, scores, policy tools, or investment signals.
+
+### Austria vs EU27 Macro Observation Card
+Repo: https://github.com/joshua-hoffmann/europe-macro-stress-monitor-2026
+
+A source-bounded Austria vs EU27_2020 macro deviation card covering selected growth, price, labour, and fiscal indicators. The project compares latest official observations against the EU27_2020 aggregate and keeps the interpretation limited to source-defined deviations.
+
+Boundary: latest official observations only; no forecasts, rankings, scores, synchronized real-time conditions, policy advice, or investment signals.
+
+Potential next version: expand from Austria-only into an EU27 macro deviation extremes view, where Austria is shown relative to selected high/low country deviations by channel.
+
