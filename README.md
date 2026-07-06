@@ -1,42 +1,57 @@
 ﻿# Joshua Hoffmann
 
-## Euro Area Credit Conditions Mini-Series
+Economics graduate building a public analytics portfolio in economic, financial and market analysis.
 
-I built a three-part mini-series using official ECB data to examine euro area credit conditions from different angles: hard credit quantities and financing costs, survey-based demand versus supply signals, and a bounded enterprise transmission view.
+I use Python, official or structured public data, and source-bounded visual artifacts to turn economic questions into clear analytical outputs. The focus is not prediction or investment advice. The focus is careful data handling, transparent assumptions, visual communication and bounded interpretation.
 
-### 1. Euro Area Credit Pulse Card
-Repo: https://github.com/joshua-hoffmann/euro-area-credit-pulse-card
+## Selected portfolio projects
 
-Compares selected ECB loan-stock and financing-cost indicators against a 2019 reference point. The project shows a quantity-cost divergence, while keeping the boundary clear: it does not separate demand from supply.
+### 1. Austria vs EU27_2020 — Macro Deviation Extremes Card
 
-### 2. Euro Area Credit Demand-Supply Lens
-Repo: https://github.com/joshua-hoffmann/euro-area-credit-demand-supply-lens
-
-Uses ECB Bank Lending Survey Core-4 indicators to separate credit standards from loan demand for enterprises and housing loans. The bounded reading is mixed: standards remain on the tightening side, while demand is uneven and close to flat rather than uniformly weak.
-
-### 3. Euro Area Monetary Transmission Lens
-Repo: https://github.com/joshua-hoffmann/euro-area-monetary-transmission-lens
-
-Combines selected ECB MIR, BLS, and BSI indicators into a side-by-side enterprise transmission lens. It compares financing costs, BLS survey balances, and NFC loan growth while keeping units and claim boundaries separate.
-
-### Overall takeaway
-
-Euro area credit conditions are better read as a layered picture than as a single stress or normalization signal. Costs, quantities, survey demand, and survey supply can point in different directions, so the analytical value comes from keeping those concepts separate and comparing them carefully.
-
-### Claim boundary
-
-These projects do not provide forecasts, investment signals, policy recommendations, credit-crisis diagnoses, stress scores, bank rankings, or country rankings. They are bounded analytical lenses based on selected official ECB indicators.
-
-## Official Macro Observation Prototypes
-
-I also build source-bounded macro observation prototypes using official data. These projects are designed as compact observation cards, not forecasts, rankings, scores, policy tools, or investment signals.
-
-### Austria vs EU27 Macro Observation Card
 Repo: https://github.com/joshua-hoffmann/europe-macro-stress-monitor-2026
 
-A source-bounded Austria vs EU27_2020 macro deviation card covering selected growth, price, labour, and fiscal indicators. The project compares latest official observations against the EU27_2020 aggregate and keeps the interpretation limited to source-defined deviations.
+Source-bounded macro analytics artifact using latest official Eurostat observations to show where Austria sits relative to EU27_2020 and observed EU27 country-deviation extremes across selected macro indicators.
 
-Boundary: latest official observations only; no forecasts, rankings, scores, synchronized real-time conditions, policy advice, or investment signals.
+Bounded observation: Austria is the highest positive-deviation case for HICP energy inflation, while it sits close to EU27_2020 for unemployment and general government gross debt.
 
-Potential next version: expand from Austria-only into an EU27 macro deviation extremes view, where Austria is shown relative to selected high/low country deviations by channel.
+Boundary: latest official observations only; no forecasts, no scores, no rankings, no investment advice, no policy advice, no crisis diagnosis and no objective country-risk claim.
+
+### 2. Euro Area Credit Conditions Mini-Series
+
+A three-part ECB data series examining euro area credit conditions from different angles:
+
+- Credit Pulse Card: selected loan-stock and financing-cost indicators against a 2019 reference point.
+- Demand-Supply Lens: ECB Bank Lending Survey indicators separating credit standards from loan demand.
+- Monetary Transmission Lens: enterprise financing costs, BLS survey balances and NFC loan growth in one side-by-side view.
+
+Repos:
+
+- https://github.com/joshua-hoffmann/euro-area-credit-pulse-card
+- https://github.com/joshua-hoffmann/euro-area-credit-demand-supply-lens
+- https://github.com/joshua-hoffmann/euro-area-monetary-transmission-lens
+
+Overall reading: euro area credit conditions are better understood as a layered picture than as a single stress or normalization signal. Costs, quantities, survey demand and survey supply can point in different directions, so the analytical value comes from keeping the concepts separate.
+
+Boundary: no forecasts, investment signals, policy recommendations, credit-crisis diagnoses, stress scores, bank rankings or country rankings.
+
+### 3. Battery Market Strategic Exposure
+
+Repo: https://github.com/joshua-hoffmann/battery-market-strategic-exposure
+
+Source-backed concentration analysis for selected battery-relevant minerals, covering mine production and processing/refining concentration comparisons.
+
+Boundary: concentration analysis only; not a forecast, investment recommendation, geopolitical model, operational supply-risk score or procurement recommendation.
+
+## What this portfolio is meant to show
+
+- Python-based data analysis
+- official/public data handling
+- source-bounded economic and financial interpretation
+- visual communication of analytical findings
+- transparent claim boundaries
+- reproducible project structure
+
+## Claim boundary
+
+These projects are portfolio analytics artifacts. They do not provide forecasts, investment advice, trading signals, policy recommendations, operational risk systems, validated early-warning models or automated decision systems.
 
