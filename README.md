@@ -1,4 +1,4 @@
-﻿# Joshua Hoffmann
+# Joshua Hoffmann
 
 Economics graduate building a public analytics portfolio in economic, financial and market analysis.
 
@@ -6,9 +6,9 @@ I use Python, official or structured public data, and source-bounded visual arti
 
 ## Selected portfolio projects
 
-### 1. Austria vs EU27_2020 — Macro Deviation Extremes Card
+### 1. Austria vs EU27_2020 - Macro Deviation Extremes Card
 
-Repo: https://github.com/joshua-hoffmann/europe-macro-stress-monitor-2026
+Repo: https://github.com/joshua-hoffmann/Source-bounded-Austria-vs-EU27_2020-macro-deviation-card-using-latest-official-Eurostat-observations
 
 Source-bounded macro analytics artifact using latest official Eurostat observations to show where Austria sits relative to EU27_2020 and observed EU27 country-deviation extremes across selected macro indicators.
 
@@ -54,4 +54,3 @@ Boundary: concentration analysis only; not a forecast, investment recommendation
 ## Claim boundary
 
 These projects are portfolio analytics artifacts. They do not provide forecasts, investment advice, trading signals, policy recommendations, operational risk systems, validated early-warning models or automated decision systems.
-
